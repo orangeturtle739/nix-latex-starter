@@ -1,0 +1,12 @@
+*.swp
+*.log
+*.out
+*.fdb_latexmk
+*.aux
+*.fls
+*.pdf
+
+.envrc
+.direnv
+
+result
